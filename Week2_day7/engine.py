@@ -27,7 +27,7 @@ def setup_images():
             "StoneBlock": "Stone Block.png",
             "ShortTree": "Tree Short.png",
             "TallTree": "Tree Tall.png",
-            "Rock": "Rock.png", "OpenChest": "Chest Open.png",
+            "Rock": "Rock.png",
             "Chest": "Chest Closed.png",
             "DoorClosed": "Door Tall Closed.png",
             "DoorOpen": "Door Tall Open.png",
